@@ -9,7 +9,9 @@ codigo do bot de mudanças climaticas
 - pyttsx3
 
 ## creditos
--
+- Emanuel-DeToni
+- kelvinkkkkkkk
+- NERDpRoPRamad0r
 
 ## Os artigos de orientação que me ajudarão durante o desenvolvimento
 Um breve comentário com um link que vai me ajudar a lembrar do assunto... ([que está aqui](https://brasil.un.org/pt-br/175180-o-que-s%C3%A3o-mudan%C3%A7as-clim%C3%A1ticas))
