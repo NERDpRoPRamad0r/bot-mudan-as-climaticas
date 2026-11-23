@@ -7,6 +7,7 @@ codigo do bot de mudanças climaticas
 ## As bibliotecas que vou usar:
 - discord.py
 - pyttsx3
+- requests
 
 ## creditos
 - Emanuel-DeToni
