@@ -5,7 +5,7 @@ codigo do bot de mudanças climaticas
 > este bot vai ter sintese de fala(que da pra desativar e ligar), um quiz sobre mudanças climaticas e ele vai responder perguntas suas sobre mudanças climaticas
 
 ## As bibliotecas que vou usar:
-- discord
+- discord.py
 - pyttsx3
 
 ## creditos
